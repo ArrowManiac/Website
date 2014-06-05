@@ -1,0 +1,6 @@
+[26-May-2014 07:23:17 America/Chicago] PHP Warning:  file_get_contents(pages/208.html): failed to open stream: No such file or directory in /home1/stabby/public_html/index.php on line 75
+[28-May-2014 21:44:30 America/Chicago] PHP Warning:  file_get_contents(pages/aboutus/meettheteam.html): failed to open stream: No such file or directory in /home1/stabby/public_html/index.php on line 75
+[29-May-2014 01:22:33 America/Chicago] PHP Warning:  file_get_contents(pages/aboutus/meettheteam.html): failed to open stream: No such file or directory in /home1/stabby/public_html/index.php on line 75
+[30-May-2014 13:42:32 America/Chicago] PHP Warning:  file_get_contents(pages/208.html): failed to open stream: No such file or directory in /home1/stabby/public_html/index.php on line 75
+[03-Jun-2014 11:01:24 America/Chicago] PHP Warning:  file_get_contents(pages/208.html): failed to open stream: No such file or directory in /home1/stabby/public_html/index.php on line 75
+[04-Jun-2014 11:58:12 America/Chicago] PHP Warning:  file_get_contents(pages/shopFRCFirehose.com.html): failed to open stream: No such file or directory in /home1/stabby/public_html/index.php on line 75
